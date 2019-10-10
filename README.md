@@ -5,7 +5,7 @@ Automatic Image Cropping based on the focus of the image
 trained model file - link will be uploaded 
 
 Command to run the file  
-```python
+```bash
 python command.py --rgb_folder=./test 
 ```
 
